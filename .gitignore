@@ -1,0 +1,8 @@
+*.csv
+*.xls
+*.sql.bak
+Thumbs.db
+.DS_Store
+.vscode/
+*.tmp
+*.log
